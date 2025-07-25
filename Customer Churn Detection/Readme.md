@@ -1,4 +1,4 @@
-# Customer Churn Prediction - CodSoft Task 3
+# Customer Churn Prediction 
 
 This project predicts customer churn for a subscription-based service using historical customer data.
 
@@ -11,7 +11,7 @@ To develop a machine learning model that can predict whether a customer will lea
 ## 📂 Dataset
 
 * **Name:** Churn\_Modelling.csv
-* **Source:** Provided by CodSoft
+* **Source:** kaggle
 * **Rows:** 10,000
 * **Target Variable:** `Exited` (1 = Churned, 0 = Retained)
 
@@ -84,8 +84,3 @@ Customer_Churn_Prediction/
 
 ---
 
-## 📚 Developed For
-
-> **CodSoft Internship - Task 3**
-
-Feel free to use this as a reference for churn prediction projects!
